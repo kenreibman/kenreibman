@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 📛 My name is Ken Reibman
+- 🎓 University at Albany 2022
+- 💻 Self taught developer
+- 🟨 HTML, CSS, and JavaScript
+- 💬 Ask me about frugal traveling tips and beautiful destinations!
+- 📫 How to reach me: reibmanken@gmail.com
+
 <!--
 **lmaoken/lmaoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

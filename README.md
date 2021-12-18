@@ -7,6 +7,9 @@
 - 💬 Ask me about frugal traveling tips and beautiful destinations!
 - 📫 How to reach me: reibmanken@gmail.com
 
+Other links: 
+- 💪 [Frontend Mentor](https://www.frontendmentor.io/profile/lmaoken)
+
 <!--
 **lmaoken/lmaoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

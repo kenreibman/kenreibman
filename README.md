@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 - 📛 My name is Ken Reibman
 - 🎓 University at Albany 2022

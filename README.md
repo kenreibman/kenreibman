@@ -5,7 +5,7 @@
 - 💻 Self taught developer
 - 🟨 HTML, CSS, and JavaScript
 - 💬 Ask me about frugal traveling tips and beautiful destinations!
-- 📫 How to reach me: reibmanken@gmail.com
+- 📫 How to reach me: kreibman@albany.edu
 
 Other links: 
 - 💪 [Frontend Mentor](https://www.frontendmentor.io/profile/lmaoken)

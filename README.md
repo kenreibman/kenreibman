@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 📛 My name is Ken Reibman
+- 📛 My name is [Ken Reibman](https://kenreibman.com)
 - 🎓 University at Albany 2022
 - 💻 Self taught developer
 - 🟨 HTML, CSS, and JavaScript

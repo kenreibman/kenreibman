@@ -9,7 +9,7 @@
 
 Other links: 
 - 🔗 [Website](https://kenreibman.com)
-- 💪 [Frontend Mentor](https://www.frontendmentor.io/profile/lmaoken)
+- 💪 [Frontend Mentor](https://www.frontendmentor.io/profile/kenreibman)
 
 <!--
 **lmaoken/lmaoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

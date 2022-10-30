@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 - 📛 My name is [Ken Reibman](https://kenreibman.com)
-- 🎓 University at Albany 2022
+- 🎓 University at Albany
 - 💻 Self taught developer
 - 🟨 HTML, CSS, and JavaScript
 - 💬 Ask me about frugal traveling tips and beautiful destinations!

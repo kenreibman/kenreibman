@@ -2,10 +2,8 @@
 
 - 📛 My name is [Ken Reibman](https://kenreibman.com)
 - 🎓 University at Albany
-- 💻 Self taught developer
 - 🟨 HTML, CSS, and JavaScript
-- 💬 Ask me about frugal traveling tips and beautiful destinations!
-- 📫 How to reach me: kreibman@albany.edu
+- 📫 How to reach me: kreibman@alumni.albany.edu
 
 Other links: 
 - 🔗 [Website](https://kenreibman.com)

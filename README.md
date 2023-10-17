@@ -5,12 +5,12 @@
 - 🟨 HTML, CSS, and JavaScript
 - 📫 How to reach me: kreibman@alumni.albany.edu
 
-Other links: 
+Links: 
 - 🔗 [Website](https://kenreibman.com)
 - 💪 [Frontend Mentor](https://www.frontendmentor.io/profile/kenreibman)
 
 <!--
-**lmaoken/lmaoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kenreibman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

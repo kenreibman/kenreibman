@@ -1,7 +1,6 @@
 ### Hello! 👋
 
-- 📛 My name is [Ken Reibman](https://kenreibman.com)
-- 🎓 University at Albany
+- 📛 My name is [Ken](https://kenreibman.com)
 - 🟨 HTML, CSS, and JavaScript
 - 📫 How to reach me: kreibman@alumni.albany.edu
 

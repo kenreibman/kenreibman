@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 - 📛 My name is [Ken](https://kenreibman.com)
-- 🟨 HTML, CSS, and JavaScript
+- 🟨 Frontend Developer
 - 📫 How to reach me: kreibman@alumni.albany.edu
 
 Links: 
